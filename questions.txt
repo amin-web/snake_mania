@@ -1,0 +1,2 @@
+***request animation frame***= because it gives highest fps and it can render again and again.
+but instead of it we can also set interval or set timeOut.
